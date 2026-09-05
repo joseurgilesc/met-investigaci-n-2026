@@ -1,28 +1,28 @@
-# Sesión 21: Cronograma y bibliografía (II) — gestores y formato
+# Sesión 21: Técnicas de investigación
 
 ## Objetivos
 
-- Dar formato final al cronograma del proyecto.
-- Gestionar la bibliografía con herramientas digitales.
-- Consolidar el plan de trabajo y las referencias.
+- Conocer las principales técnicas de recolección de datos.
+- Elegir la técnica adecuada según el objeto de estudio.
+- Introducir el estudio de caso como técnica.
 
 ## Contenidos
 
-El cronograma final debe ser **realista y revisable**: con hitos claros (interciclo, entregas) y margen para imprevistos. Una representación visual (diagrama de Gantt) ayuda a ver las dependencias entre tareas.
+Las **técnicas de investigación** son los procedimientos concretos para recolectar y analizar la evidencia. Las más habituales en el ámbito musical son:
 
-La **bibliografía** puede gestionarse de forma manual o con herramientas que la ordenan y formatean automáticamente, como **Zotero** o **BibCitation**. Un gestor te ahorra el trabajo de reescribir cada referencia y reduce los errores de formato.
+- **Observación**: registro sistemático de un fenómeno (un ensayo, una sesión de grabación).
+- **Encuesta**: cuestionario a una muestra para obtener datos comparables.
+- **Entrevista**: diálogo guiado para comprender experiencias y significados.
+- **Análisis documental**: estudio de partituras, grabaciones, textos o documentos.
+- **Estudio de caso**: examen profundo de un caso concreto (un artista, una producción, una obra) para comprender un fenómeno mayor.
 
-Integrar cronograma y bibliografía cierra la fase de planificación: ya tienes **qué** harás (contenido), **con qué** fuentes (bibliografía) y **cuándo** (cronograma).
+La elección de la técnica depende del **enfoque** y del **objeto**: no todas sirven para todo. Un proyecto cuantitativo privilegiará la encuesta o el análisis numérico; uno cualitativo, la entrevista o el estudio de caso.
 
 ## Actividades
 
-1. Dar formato final al cronograma, con hitos y fechas del ciclo.
-2. Organizar la bibliografía con un gestor de referencias.
-3. Entregar el desarrollo de cronograma y bibliografía en Classroom.
-
-## Recursos
-
-- Zotero: <https://www.zotero.org>
+1. Identificar qué técnica conviene a cada proyecto según su objeto y enfoque.
+2. Introducción al estudio de caso: definición, tipos y cuándo usarlo.
+3. Trabajo sobre un estudio de caso aplicado al propio tema.
 
 ---
-*Herramientas: hoja de cálculo, Zotero/BibCitation*
+*Herramientas: Google Docs, Google Classroom*

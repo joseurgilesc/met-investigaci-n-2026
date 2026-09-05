@@ -1,25 +1,27 @@
-# Sesión 19: Fichas bibliográficas (II) — citas y comentario crítico
+# Sesión 19: Cronograma del proyecto (I) — planificación
 
 ## Objetivos
 
-- Seleccionar citas textuales relevantes con su paginación.
-- Redactar un comentario crítico que valore la utilidad de cada fuente.
-- Completar la ficha bibliográfica como insumo del marco teórico.
+- Comprender la estructura del cronograma de un proyecto de titulación.
+- Distribuir las tareas del proyecto en las fases del ciclo académico.
+- Planificar el trabajo práctico con anticipación.
 
 ## Contenidos
 
-Completar la ficha exige las dos capas que aportan valor analítico:
+El **cronograma** traduce el proyecto en un plan con tiempos. Distribuye las tareas a lo largo del período y hace visible lo que se avecina, evitando la sobrecarga de última hora.
 
-- **Citas textuales**: fragmentos exactos que capturan ideas clave, siempre entre comillas y con número de página. Úsalas con moderación: solo cuando la formulación original sea insustituible.
-- **Comentario crítico**: tu valoración de la fuente. ¿Qué aporta a tu proyecto? ¿Qué límites tiene? ¿Cómo se relaciona o contrasta con otras fuentes?
+En un proyecto de producción musical, conviene distinguir las fases:
 
-El comentario es el paso de "recolectar" a "pensar". Aquí es donde la fuente deja de ser un archivo y se vuelve parte de tu argumentación.
+- **Primer ciclo (UIC I)**: completar y entregar el proyecto antes del interciclo; en la segunda parte, cerrar el Capítulo 1.
+- **Segundo ciclo (UIC II)**: desarrollar los capítulos restantes, en especial los de la **parte práctica**.
+
+Un consejo decisivo: **adelanta desde el inicio la parte práctica** —composición, arreglos, grabación—. Es la tarea que más tiempo consume y la que más riesgo acumula si se deja para el final.
 
 ## Actividades
 
-1. Seleccionar de cada fuente una o dos citas textuales clave, con número de página.
-2. Redactar el comentario crítico de cada fuente: aporte, límites y relación con el proyecto.
-3. Revisión completa de las fichas bibliográficas.
+1. Listar todas las tareas del proyecto, separando la parte documental de la práctica.
+2. Distribuir las tareas en las fases del ciclo (UIC I y UIC II).
+3. Elaborar un borrador de cronograma.
 
 ---
-*Herramientas: Google Docs, normas APA*
+*Herramientas: hoja de cálculo, Google Docs*

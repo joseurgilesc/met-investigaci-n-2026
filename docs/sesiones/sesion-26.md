@@ -1,26 +1,27 @@
-# Sesión 26: Análisis musical (II) — parámetros electromusicales
+# Sesión 26: Gestión del tiempo
 
 ## Objetivos
 
-- Analizar los parámetros de producción (electromusicales) de una obra.
-- Relacionar las decisiones de producción con el resultado estético.
-- Integrar estructura, tiempo y producción en un análisis completo.
+- Reconocer la gestión del tiempo como competencia del trabajo académico.
+- Aplicar técnicas de planificación personal al proyecto.
+- Evaluar los propios hábitos de organización.
 
 ## Contenidos
 
-El análisis de una **producción** va más allá de la partitura: examina cómo las decisiones técnicas moldean la escucha. Los **parámetros electromusicales** incluyen:
+Un proyecto de titulación no fracasa solo por falta de ideas: a menudo fracasa por **mala gestión del tiempo**. Las técnicas de planificación personal ayudan a sostener el ritmo durante todo el ciclo:
 
-- **Paneo**: distribución de las fuentes entre los canales izquierdo y derecho, y su movimiento (efectos estéreo).
-- **Filtros y efectos**: uso de reverberación, *delay* y compresión, y cómo modelan el espacio y la dinámica.
-- **Timbre y mezcla**: el carácter sonoro de cada elemento y su lugar en el conjunto.
+- **Priorizar**: distinguir lo urgente de lo importante.
+- **Dividir**: partir las tareas grandes en pasos pequeños y concretos.
+- **Bloquear tiempo**: reservar espacios fijos para avanzar, sin improvisar.
+- **Revisar**: ajustar el plan cada semana según lo avanzado.
 
-Estos parámetros no son neutrales: comunican. Una mezcla con mucha reverberación sugiere un espacio amplio; una compresión agresiva, densidad y cercanía. Analizarlos es explicar **cómo** suena la obra, no solo **qué** contiene.
+Aplicada al proyecto, la gestión del tiempo es la diferencia entre adelantar la parte práctica con calma o apurarla al final. Planificar no quita creatividad: la protege.
 
 ## Actividades
 
-1. Analizar el paneo y los efectos (reverberación, *delay*, compresión) de la canción elegida.
-2. Describir cómo estas decisiones afectan la percepción de la obra.
-3. Integrar los resultados con el análisis de estructura y tiempo de la sesión anterior.
+1. Cuestionario de gestión del tiempo para evaluar los propios hábitos.
+2. Revisar el cronograma del proyecto a la luz de los resultados.
+3. Definir un plan semanal concreto de avance hasta la entrega final.
 
 ---
-*Herramientas: DAW o plataforma de audio, Google Docs*
+*Herramientas: Google Classroom, hoja de cálculo*

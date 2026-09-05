@@ -1,27 +1,29 @@
-# Sesión 16: Examen interciclo
+# Sesión 16: Lectura académica y fichas bibliográficas
 
 ## Objetivos
 
-- Demostrar el avance del proyecto hasta el marco teórico.
-- Evaluar la coherencia de la cadena tema → objeto → objetivos → marco teórico.
+- Leer fuentes académicas de forma crítica.
+- Construir fichas bibliográficas que registren la lectura.
+- Incorporar nuevas fuentes al marco teórico.
 
 ## Contenidos
 
-El examen interciclo es un **hito de verificación**. Evalúa el avance acumulado desde la elección del tema hasta el marco teórico, verificando:
+La **lectura académica** no es pasiva: se lee con un propósito y con preguntas. Frente a cada fuente conviene preguntarse: ¿qué afirma?, ¿con qué evidencia?, ¿cómo se relaciona con mi proyecto?
 
-- La claridad del tema y su delimitación.
-- La precisión del objeto y el campo de estudio.
-- La calidad y coherencia de los objetivos.
-- La solidez del estado del arte y del marco teórico.
-- La citación correcta de las fuentes.
+La **ficha bibliográfica** es el instrumento que fija esa lectura. Registra:
 
-La evaluación no es un fin en sí: es la oportunidad de detectar a tiempo lo que hay que corregir antes de avanzar a las técnicas de investigación.
+- La **referencia** completa (normas APA).
+- El **resumen** de las ideas centrales.
+- Las **citas textuales** relevantes (con número de página).
+- Un **comentario** sobre su utilidad para tu trabajo.
+
+La ficha convierte una lectura en un insumo reutilizable: cuando escribas el marco teórico, ya tendrás el material organizado.
 
 ## Actividades
 
-1. Examen interciclo sobre el avance del proyecto (20 puntos).
-2. Entrega del documento con protocolo y marco teórico.
-3. Retroalimentación individual sobre fortalezas y aspectos a mejorar.
+1. Buscar dos artículos o libros nuevos relacionados con el tema de titulación.
+2. Construir la ficha bibliográfica de cada fuente (referencia, resumen, citas, comentario).
+3. Vincular las nuevas fuentes al material de producción musical del proyecto.
 
 ---
-*Herramientas: Google Classroom*
+*Herramientas: Google Docs, normas APA*

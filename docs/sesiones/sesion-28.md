@@ -1,27 +1,25 @@
-# Sesión 28: Gestión del tiempo
+# Sesión 28: Examen final
 
 ## Objetivos
 
-- Reconocer la gestión del tiempo como competencia del trabajo académico.
-- Aplicar técnicas de planificación personal al proyecto.
-- Evaluar los propios hábitos de organización.
+- Demostrar el dominio de la técnica de la entrevista.
+- Integrar los aprendizajes del curso en la evaluación final.
 
 ## Contenidos
 
-Un proyecto de titulación no fracasa solo por falta de ideas: a menudo fracasa por **mala gestión del tiempo**. Las técnicas de planificación personal ayudan a sostener el ritmo durante todo el ciclo:
+El **examen final** evalúa la técnica de la entrevista como competencia central del curso. Recoge los elementos trabajados a lo largo del semestre:
 
-- **Priorizar**: distinguir lo urgente de lo importante.
-- **Dividir**: partir las tareas grandes en pasos pequeños y concretos.
-- **Bloquear tiempo**: reservar espacios fijos para avanzar, sin improvisar.
-- **Revisar**: ajustar el plan cada semana según lo avanzado.
+- El **diseño** de la entrevista semiestructurada y su guión por bloques temáticos.
+- La **aplicación** en campo, con consentimiento y registro de calidad.
+- La **transcripción** íntegra del material.
+- El **análisis** de los temas y significados extraídos.
 
-Aplicada al proyecto, la gestión del tiempo es la diferencia entre adelantar la parte práctica con calma o apurarla al final. Planificar no quita creatividad: la protege.
+Junto al análisis musical, la entrevista sintetiza el recorrido del curso: del problema y el objeto de estudio, a la evidencia recolectada y analizada.
 
 ## Actividades
 
-1. Cuestionario de gestión del tiempo para evaluar los propios hábitos.
-2. Revisar el cronograma del proyecto a la luz de los resultados.
-3. Definir un plan semanal concreto de avance hasta la entrega final.
+1. Examen final sobre la técnica de la entrevista (30 puntos).
+2. Revisión integradora del trabajo del ciclo.
 
 ---
-*Herramientas: Google Classroom, hoja de cálculo*
+*Herramientas: Google Classroom*

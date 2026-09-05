@@ -1,29 +1,27 @@
-# Sesión 15: Revisión del marco teórico (previo al interciclo)
+# Sesión 15: Examen interciclo
 
 ## Objetivos
 
-- Comprender qué es y cómo se estructura el marco teórico.
-- Revisar el marco teórico propio antes del interciclo.
-- Aplicar correctamente la citación de fuentes.
+- Demostrar el avance del proyecto hasta el marco teórico.
+- Evaluar la coherencia de la cadena tema → objeto → objetivos → marco teórico.
 
 ## Contenidos
 
-El **marco teórico** es la base conceptual que sustenta el proyecto: un conjunto organizado de conceptos, teorías y hallazgos previos que dan sentido a tu trabajo. No es un listado de definiciones, sino una **argumentación** que conecta las fuentes con tu objeto de estudio.
+El examen interciclo es un **hito de verificación**. Evalúa el avance acumulado desde la elección del tema hasta el marco teórico, verificando:
 
-Un marco teórico bien estructurado:
+- La claridad del tema y su delimitación.
+- La precisión del objeto y el campo de estudio.
+- La calidad y coherencia de los objetivos.
+- La solidez del estado del arte y del marco teórico.
+- La citación correcta de las fuentes.
 
-1. Define los conceptos clave.
-2. Presenta las teorías y autores de referencia.
-3. Discute los hallazgos previos y sus límites.
-4. Cierra apuntando al vacío que tu proyecto atiende.
-
-Toda idea tomada de otro debe **citarse** correctamente (normas APA). Citar no debilita tu trabajo: lo respalda y demuestra rigor.
+La evaluación no es un fin en sí: es la oportunidad de detectar a tiempo lo que hay que corregir antes de avanzar a las técnicas de investigación.
 
 ## Actividades
 
-1. Revisar la estructura del marco teórico propio: conceptos, autores, discusión y cierre.
-2. Verificar que cada afirmación ajena esté citada según normas APA.
-3. Ajustar el documento con vistas al examen interciclo.
+1. Examen interciclo sobre el avance del proyecto (20 puntos).
+2. Entrega del documento con protocolo y marco teórico.
+3. Retroalimentación individual sobre fortalezas y aspectos a mejorar.
 
 ---
-*Herramientas: Google Docs, normas APA*
+*Herramientas: Google Classroom*

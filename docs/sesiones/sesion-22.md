@@ -1,28 +1,28 @@
-# Sesión 22: Técnicas de investigación
+# Sesión 22: Revisión de estudios de caso
 
 ## Objetivos
 
-- Conocer las principales técnicas de recolección de datos.
-- Elegir la técnica adecuada según el objeto de estudio.
-- Introducir el estudio de caso como técnica.
+- Analizar estudios de caso del ámbito musical.
+- Valorar la calidad y el rigor de un estudio de caso.
+- Perfeccionar el propio estudio de caso.
 
 ## Contenidos
 
-Las **técnicas de investigación** son los procedimientos concretos para recolectar y analizar la evidencia. Las más habituales en el ámbito musical son:
+El **estudio de caso** examina en profundidad un caso para iluminar un fenómeno más amplio. Su fortaleza es la profundidad; su riesgo, la generalización apresurada: un caso no siempre representa a todos.
 
-- **Observación**: registro sistemático de un fenómeno (un ensayo, una sesión de grabación).
-- **Encuesta**: cuestionario a una muestra para obtener datos comparables.
-- **Entrevista**: diálogo guiado para comprender experiencias y significados.
-- **Análisis documental**: estudio de partituras, grabaciones, textos o documentos.
-- **Estudio de caso**: examen profundo de un caso concreto (un artista, una producción, una obra) para comprender un fenómeno mayor.
+Al revisar un estudio de caso conviene preguntarse:
 
-La elección de la técnica depende del **enfoque** y del **objeto**: no todas sirven para todo. Un proyecto cuantitativo privilegiará la encuesta o el análisis numérico; uno cualitativo, la entrevista o el estudio de caso.
+- ¿Está el caso **bien delimitado** (qué es y qué no es)?
+- ¿Qué **evidencia** lo sustenta (documentos, entrevistas, grabaciones)?
+- ¿Qué **conclusiones** permite y cuáles exceden lo que el caso demuestra?
+
+En música, un estudio de caso puede ser una producción, un sello, un género o la obra de un artista. La clave es que el análisis sea **sistemático** y no una mera descripción.
 
 ## Actividades
 
-1. Identificar qué técnica conviene a cada proyecto según su objeto y enfoque.
-2. Introducción al estudio de caso: definición, tipos y cuándo usarlo.
-3. Trabajo sobre un estudio de caso aplicado al propio tema.
+1. Revisar en clase uno o más estudios de caso musicales, aplicando las preguntas de valoración.
+2. Contrastar el propio estudio de caso con los ejemplos revisados.
+3. Ajustar el caso propio: delimitación, evidencia y alcance de las conclusiones.
 
 ---
-*Herramientas: Google Docs, Google Classroom*
+*Herramientas: repositorio institucional, Google Docs*

@@ -1,28 +1,28 @@
-# Sesión 23: Revisión de estudios de caso
+# Sesión 23: Diseño de entrevistas
 
 ## Objetivos
 
-- Analizar estudios de caso del ámbito musical.
-- Valorar la calidad y el rigor de un estudio de caso.
-- Perfeccionar el propio estudio de caso.
+- Distinguir los tipos de entrevista y sus usos.
+- Diseñar un guión de entrevista semiestructurada.
+- Aplicar buenas prácticas de consentimiento y transcripción.
 
 ## Contenidos
 
-El **estudio de caso** examina en profundidad un caso para iluminar un fenómeno más amplio. Su fortaleza es la profundidad; su riesgo, la generalización apresurada: un caso no siempre representa a todos.
+La **entrevista** es una técnica cualitativa central para comprender experiencias, trayectorias y significados. Según su grado de estructuración:
 
-Al revisar un estudio de caso conviene preguntarse:
+- **Estructurada**: preguntas fijas y cerradas; comparable pero rígida.
+- **Semiestructurada**: un guión de temas abiertos que permite profundizar.
+- **No estructurada**: conversación libre, sin guión previo.
 
-- ¿Está el caso **bien delimitado** (qué es y qué no es)?
-- ¿Qué **evidencia** lo sustenta (documentos, entrevistas, grabaciones)?
-- ¿Qué **conclusiones** permite y cuáles exceden lo que el caso demuestra?
+La **semiestructurada** es la más útil en investigación cualitativa: garantiza que se cubran los temas clave sin renunciar a la flexibilidad. Un buen guión organiza los temas (por ejemplo: *Formación, Influencias musicales, Proceso creativo*) con preguntas abiertas de apoyo.
 
-En música, un estudio de caso puede ser una producción, un sello, un género o la obra de un artista. La clave es que el análisis sea **sistemático** y no una mera descripción.
+La ética importa: informa al entrevistado del propósito, pide su **consentimiento** y **graba** con su autorización. La **transcripción** íntegra es la base del análisis posterior.
 
 ## Actividades
 
-1. Revisar en clase uno o más estudios de caso musicales, aplicando las preguntas de valoración.
-2. Contrastar el propio estudio de caso con los ejemplos revisados.
-3. Ajustar el caso propio: delimitación, evidencia y alcance de las conclusiones.
+1. Elaborar el guión de una entrevista semiestructurada sobre un tema a elección, organizado por bloques temáticos.
+2. Planificar la grabación (celular, notas de voz o aplicación de grabación).
+3. Revisar pautas de consentimiento y transcripción.
 
 ---
-*Herramientas: repositorio institucional, Google Docs*
+*Herramientas: Google Docs, grabadora de voz*

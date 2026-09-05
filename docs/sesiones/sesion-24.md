@@ -1,28 +1,31 @@
-# Sesión 24: Diseño de entrevistas
+# Sesión 24: Análisis musical (I) — estructura y forma
 
 ## Objetivos
 
-- Distinguir los tipos de entrevista y sus usos.
-- Diseñar un guión de entrevista semiestructurada.
-- Aplicar buenas prácticas de consentimiento y transcripción.
+- Comprender qué es el análisis musical y para qué sirve en la investigación.
+- Identificar la estructura y las secciones de una obra.
+- Analizar los aspectos temporales (tempo y textura rítmica).
 
 ## Contenidos
 
-La **entrevista** es una técnica cualitativa central para comprender experiencias, trayectorias y significados. Según su grado de estructuración:
+El **análisis musical** es la técnica que examina una obra en sus dimensiones constitutivas. En un proyecto de investigación, permite sustentar afirmaciones sobre una obra o un repertorio con evidencia musical, no con impresiones vagas.
 
-- **Estructurada**: preguntas fijas y cerradas; comparable pero rígida.
-- **Semiestructurada**: un guión de temas abiertos que permite profundizar.
-- **No estructurada**: conversación libre, sin guión previo.
+La primera dimensión es la **estructura**:
 
-La **semiestructurada** es la más útil en investigación cualitativa: garantiza que se cubran los temas clave sin renunciar a la flexibilidad. Un buen guión organiza los temas (por ejemplo: *Formación, Influencias musicales, Proceso creativo*) con preguntas abiertas de apoyo.
+- Identificar las secciones principales: intro, verso, coro, puente, outro.
+- Representar la estructura con un esquema (por ejemplo, A-B-A o A-B-C).
+- Reflexionar sobre cómo se conectan las secciones y su función en la obra.
 
-La ética importa: informa al entrevistado del propósito, pide su **consentimiento** y **graba** con su autorización. La **transcripción** íntegra es la base del análisis posterior.
+La segunda dimensión es el **tiempo**:
+
+- **Tempo**: velocidad (lento, moderado, rápido) y si cambia entre secciones.
+- **Textura rítmica**: patrones rítmicos distintivos que definen el carácter de la obra.
 
 ## Actividades
 
-1. Elaborar el guión de una entrevista semiestructurada sobre un tema a elección, organizado por bloques temáticos.
-2. Planificar la grabación (celular, notas de voz o aplicación de grabación).
-3. Revisar pautas de consentimiento y transcripción.
+1. Elegir una canción y trazar su estructura por secciones (esquema de letras).
+2. Describir el tempo y los patrones rítmicos distintivos.
+3. Reflexionar por escrito sobre la función de cada sección.
 
 ---
-*Herramientas: Google Docs, grabadora de voz*
+*Herramientas: plataforma de audio, Google Docs*

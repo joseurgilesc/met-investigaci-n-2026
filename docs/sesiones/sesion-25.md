@@ -1,31 +1,26 @@
-# Sesión 25: Análisis musical (I) — estructura y forma
+# Sesión 25: Análisis musical (II) — parámetros electromusicales
 
 ## Objetivos
 
-- Comprender qué es el análisis musical y para qué sirve en la investigación.
-- Identificar la estructura y las secciones de una obra.
-- Analizar los aspectos temporales (tempo y textura rítmica).
+- Analizar los parámetros de producción (electromusicales) de una obra.
+- Relacionar las decisiones de producción con el resultado estético.
+- Integrar estructura, tiempo y producción en un análisis completo.
 
 ## Contenidos
 
-El **análisis musical** es la técnica que examina una obra en sus dimensiones constitutivas. En un proyecto de investigación, permite sustentar afirmaciones sobre una obra o un repertorio con evidencia musical, no con impresiones vagas.
+El análisis de una **producción** va más allá de la partitura: examina cómo las decisiones técnicas moldean la escucha. Los **parámetros electromusicales** incluyen:
 
-La primera dimensión es la **estructura**:
+- **Paneo**: distribución de las fuentes entre los canales izquierdo y derecho, y su movimiento (efectos estéreo).
+- **Filtros y efectos**: uso de reverberación, *delay* y compresión, y cómo modelan el espacio y la dinámica.
+- **Timbre y mezcla**: el carácter sonoro de cada elemento y su lugar en el conjunto.
 
-- Identificar las secciones principales: intro, verso, coro, puente, outro.
-- Representar la estructura con un esquema (por ejemplo, A-B-A o A-B-C).
-- Reflexionar sobre cómo se conectan las secciones y su función en la obra.
-
-La segunda dimensión es el **tiempo**:
-
-- **Tempo**: velocidad (lento, moderado, rápido) y si cambia entre secciones.
-- **Textura rítmica**: patrones rítmicos distintivos que definen el carácter de la obra.
+Estos parámetros no son neutrales: comunican. Una mezcla con mucha reverberación sugiere un espacio amplio; una compresión agresiva, densidad y cercanía. Analizarlos es explicar **cómo** suena la obra, no solo **qué** contiene.
 
 ## Actividades
 
-1. Elegir una canción y trazar su estructura por secciones (esquema de letras).
-2. Describir el tempo y los patrones rítmicos distintivos.
-3. Reflexionar por escrito sobre la función de cada sección.
+1. Analizar el paneo y los efectos (reverberación, *delay*, compresión) de la canción elegida.
+2. Describir cómo estas decisiones afectan la percepción de la obra.
+3. Integrar los resultados con el análisis de estructura y tiempo de la sesión anterior.
 
 ---
-*Herramientas: plataforma de audio, Google Docs*
+*Herramientas: DAW o plataforma de audio, Google Docs*

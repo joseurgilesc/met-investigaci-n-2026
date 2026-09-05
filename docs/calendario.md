@@ -1,45 +1,49 @@
 # Calendario
 
-El curso se desarrolla en 29 sesiones distribuidas en cinco unidades. Cada sesión combina contenido conceptual con una actividad práctica que avanza el proyecto de titulación.
+El curso se desarrolla en **28 sesiones** (lunes y martes) distribuidas en cinco unidades, con dos exámenes: el **interciclo** (16/11/2026) y el **final** (5/1/2027).
 
 | Unidad | Sesiones | Contenido central |
 | --- | --- | --- |
 | 1 · Fundamentos | 01–03 | Investigación científica y artística, filosofía, enfoques |
 | 2 · Del tema al protocolo | 04–10 | Tema, problema, objeto, protocolo y objetivos |
-| 3 · Estado del arte y marco teórico | 11–17 | Estado actual, recopilación, fichas, marco teórico, interciclo |
-| 4 · Técnicas de investigación y análisis | 18–26 | Fichas, cronograma, estudio de caso, entrevista, análisis musical |
-| 5 · Gestión y cierre | 27–29 | Análisis musical, gestión del tiempo, entrevistas |
+| 3 · Estado del arte y marco teórico | 11–15 | Estado actual, recopilación, marco teórico, interciclo |
+| 4 · Técnicas de investigación y análisis | 16–25 | Fichas, cronograma, técnicas, entrevista, análisis musical |
+| 5 · Gestión y cierre | 26–28 | Gestión del tiempo, entrevistas, examen final |
 
 ## Detalle por sesión
 
-| Sesión | Tema | Actividad principal |
+| Sesión | Fecha | Tema |
 | --- | --- | --- |
-| 01 | Investigación científica y artística | Cuestionario diagnóstico y búsqueda de artículos |
-| 02 | Filosofía de la investigación y bibliografía anotada | Búsqueda en DSpace |
-| 03 | Enfoques de la investigación | Análisis cuantitativo y cualitativo de *In C* de Terry Riley |
-| 04 | Formatos de trabajos de titulación y tema | Hoja de trabajo: temas |
-| 05 | Problema y tipos de investigación | Operadores de búsqueda y carpeta académica |
-| 06 | Delimitación del tema | Hoja de trabajo: delimitación |
-| 07 | Objeto y campo de estudio | Cinco bibliografías anotadas |
-| 08 | Inicio del protocolo | Avance de protocolo (título y objeto) |
-| 09 | Objetivos de investigación | Ejercicio sobre tesis de producción musical |
-| 10 | Objetivos generales y específicos | Construcción de objetivos |
-| 11 | Estado actual del conocimiento | Hoja de trabajo: estado actual |
-| 12 | Recopilación (I): fuentes y búsqueda | Revisión del estado actual |
-| 13 | Recopilación (II): organización y síntesis | Mapa conceptual |
-| 14 | Instrucciones del examen interciclo | Repaso guiado |
-| 15 | Revisión del marco teórico | Revisión previa al interciclo |
-| 16 | Examen interciclo | Evaluación del avance |
-| 17 | Lectura académica y fichas bibliográficas | Fichas bibliográficas |
-| 18 | Fichas (I): registro y resumen | Registro de fuentes |
-| 19 | Fichas (II): citas y comentario crítico | Revisión de fichas |
-| 20 | Cronograma (I): planificación | Estructura del cronograma |
-| 21 | Cronograma (II): gestores y formato | Cronograma y bibliografía final |
-| 22 | Técnicas de investigación | Estudio de caso |
-| 23 | Revisión de estudios de caso | Análisis de casos |
-| 24 | Diseño de entrevistas | Guión semiestructurado |
-| 25 | Análisis musical (I): estructura y forma | Análisis de una canción |
-| 26 | Análisis musical (II): parámetros electromusicales | Análisis de producción |
-| 27 | Análisis musical (III): presentación | Retroalimentación |
-| 28 | Gestión del tiempo | Cuestionario de gestión del tiempo |
-| 29 | Entrevistas: aplicación y evaluación | Examen sobre entrevista |
+| 01 | 21/9/2026 | Investigación científica y artística |
+| 02 | 22/9/2026 | Filosofía de la investigación y bibliografía anotada |
+| 03 | 28/9/2026 | Enfoques de la investigación |
+| 04 | 29/9/2026 | Formatos de trabajos de titulación y tema |
+| 05 | 5/10/2026 | Problema de investigación y tipos |
+| 06 | 6/10/2026 | Delimitación del tema de estudio |
+| 07 | 12/10/2026 | Objeto y campo de la investigación |
+| 08 | 13/10/2026 | Inicio de la construcción del protocolo |
+| 09 | 19/10/2026 | Objetivos de investigación |
+| 10 | 20/10/2026 | Objetivos generales y específicos |
+| 11 | 26/10/2026 | Estado actual del conocimiento |
+| 12 | 27/10/2026 | Recopilación de la información |
+| 13 | 9/11/2026 | Instrucciones para el examen interciclo |
+| 14 | 10/11/2026 | Revisión del marco teórico |
+| 15 | 16/11/2026 | 🎓 **Examen interciclo** |
+| 16 | 17/11/2026 | Lectura académica y fichas bibliográficas |
+| 17 | 23/11/2026 | Fichas bibliográficas I: registro y resumen |
+| 18 | 24/11/2026 | Fichas bibliográficas II: citas y comentario |
+| 19 | 30/11/2026 | Cronograma I: planificación |
+| 20 | 1/12/2026 | Cronograma y bibliografía II: gestores y formato |
+| 21 | 7/12/2026 | Técnicas de investigación |
+| 22 | 8/12/2026 | Revisión de estudios de caso |
+| 23 | 14/12/2026 | Diseño de entrevistas |
+| 24 | 15/12/2026 | Análisis musical I: estructura y forma |
+| 25 | 21/12/2026 | Análisis musical II: parámetros electromusicales |
+| 26 | 22/12/2026 | Gestión del tiempo |
+| 27 | 4/1/2027 | Entrevistas: aplicación |
+| 28 | 5/1/2027 | 🎓 **Examen final** |
+
+## Recesos
+
+- Semana del 2–3/11/2026: Día de los Difuntos e Independencia de Cuenca.
+- Receso de fin de año (23/12/2026 al 3/1/2027).

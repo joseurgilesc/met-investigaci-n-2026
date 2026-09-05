@@ -1,27 +1,28 @@
-# Sesión 20: Cronograma del proyecto (I) — planificación
+# Sesión 20: Cronograma y bibliografía (II) — gestores y formato
 
 ## Objetivos
 
-- Comprender la estructura del cronograma de un proyecto de titulación.
-- Distribuir las tareas del proyecto en las fases del ciclo académico.
-- Planificar el trabajo práctico con anticipación.
+- Dar formato final al cronograma del proyecto.
+- Gestionar la bibliografía con herramientas digitales.
+- Consolidar el plan de trabajo y las referencias.
 
 ## Contenidos
 
-El **cronograma** traduce el proyecto en un plan con tiempos. Distribuye las tareas a lo largo del período y hace visible lo que se avecina, evitando la sobrecarga de última hora.
+El cronograma final debe ser **realista y revisable**: con hitos claros (interciclo, entregas) y margen para imprevistos. Una representación visual (diagrama de Gantt) ayuda a ver las dependencias entre tareas.
 
-En un proyecto de producción musical, conviene distinguir las fases:
+La **bibliografía** puede gestionarse de forma manual o con herramientas que la ordenan y formatean automáticamente, como **Zotero** o **BibCitation**. Un gestor te ahorra el trabajo de reescribir cada referencia y reduce los errores de formato.
 
-- **Primer ciclo (UIC I)**: completar y entregar el proyecto antes del interciclo; en la segunda parte, cerrar el Capítulo 1.
-- **Segundo ciclo (UIC II)**: desarrollar los capítulos restantes, en especial los de la **parte práctica**.
-
-Un consejo decisivo: **adelanta desde el inicio la parte práctica** —composición, arreglos, grabación—. Es la tarea que más tiempo consume y la que más riesgo acumula si se deja para el final.
+Integrar cronograma y bibliografía cierra la fase de planificación: ya tienes **qué** harás (contenido), **con qué** fuentes (bibliografía) y **cuándo** (cronograma).
 
 ## Actividades
 
-1. Listar todas las tareas del proyecto, separando la parte documental de la práctica.
-2. Distribuir las tareas en las fases del ciclo (UIC I y UIC II).
-3. Elaborar un borrador de cronograma.
+1. Dar formato final al cronograma, con hitos y fechas del ciclo.
+2. Organizar la bibliografía con un gestor de referencias.
+3. Entregar el desarrollo de cronograma y bibliografía en Classroom.
+
+## Recursos
+
+- Zotero: <https://www.zotero.org>
 
 ---
-*Herramientas: hoja de cálculo, Google Docs*
+*Herramientas: hoja de cálculo, Zotero/BibCitation*

@@ -1,27 +1,25 @@
-# Sesión 18: Fichas bibliográficas (I) — registro y resumen
+# Sesión 18: Fichas bibliográficas (II) — citas y comentario crítico
 
 ## Objetivos
 
-- Consolidar el registro de fuentes en fichas bibliográficas.
-- Redactar resúmenes precisos de las fuentes.
-- Revisar el formato APA de las referencias.
+- Seleccionar citas textuales relevantes con su paginación.
+- Redactar un comentario crítico que valore la utilidad de cada fuente.
+- Completar la ficha bibliográfica como insumo del marco teórico.
 
 ## Contenidos
 
-La ficha bibliográfica se compone de tres capas, y en esta sesión se afinan las dos primeras:
+Completar la ficha exige las dos capas que aportan valor analítico:
 
-1. **Registro**: la referencia completa en APA. Es la identificación de la fuente; si está mal, la fuente se vuelve inencontrable.
-2. **Resumen**: una síntesis fiel de las ideas centrales, sin valoración personal todavía.
+- **Citas textuales**: fragmentos exactos que capturan ideas clave, siempre entre comillas y con número de página. Úsalas con moderación: solo cuando la formulación original sea insustituible.
+- **Comentario crítico**: tu valoración de la fuente. ¿Qué aporta a tu proyecto? ¿Qué límites tiene? ¿Cómo se relaciona o contrasta con otras fuentes?
 
-Un buen resumen no copia párrafos: captura la tesis del autor, los argumentos principales y la conclusión, con tus palabras. La fidelidad importa: no atribuyas al autor lo que no dijo.
-
-La tercera capa —las citas textuales y el comentario crítico— se trabaja en la sesión siguiente.
+El comentario es el paso de "recolectar" a "pensar". Aquí es donde la fuente deja de ser un archivo y se vuelve parte de tu argumentación.
 
 ## Actividades
 
-1. Revisar las referencias de las fichas existentes y corregir el formato APA.
-2. Redactar o mejorar el resumen de cada fuente registrada.
-3. Verificar que cada resumen sea fiel al texto original.
+1. Seleccionar de cada fuente una o dos citas textuales clave, con número de página.
+2. Redactar el comentario crítico de cada fuente: aporte, límites y relación con el proyecto.
+3. Revisión completa de las fichas bibliográficas.
 
 ---
 *Herramientas: Google Docs, normas APA*

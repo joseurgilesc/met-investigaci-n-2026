@@ -1,24 +1,29 @@
-# Sesión 14: Instrucciones para el examen interciclo
+# Sesión 14: Revisión del marco teórico (previo al interciclo)
 
 ## Objetivos
 
-- Conocer los criterios de evaluación del examen interciclo.
-- Revisar el avance del proyecto y detectar pendientes.
-- Consolidar los componentes trabajados hasta el marco teórico.
+- Comprender qué es y cómo se estructura el marco teórico.
+- Revisar el marco teórico propio antes del interciclo.
+- Aplicar correctamente la citación de fuentes.
 
 ## Contenidos
 
-El **examen interciclo** evalúa el avance del proyecto hasta el **marco teórico**. Es un punto de control: no mide la versión final, sino la solidez del proceso. Conviene repasar la **cadena completa** construida hasta aquí:
+El **marco teórico** es la base conceptual que sustenta el proyecto: un conjunto organizado de conceptos, teorías y hallazgos previos que dan sentido a tu trabajo. No es un listado de definiciones, sino una **argumentación** que conecta las fuentes con tu objeto de estudio.
 
-tema → problema → objeto → objetivos → estado del arte → marco teórico.
+Un marco teórico bien estructurado:
 
-Cada eslabón depende del anterior. Un tema mal delimitado produce un objeto difuso; un objeto difuso produce objetivos débiles. El repaso consiste en verificar la **coherencia** de toda la cadena.
+1. Define los conceptos clave.
+2. Presenta las teorías y autores de referencia.
+3. Discute los hallazgos previos y sus límites.
+4. Cierra apuntando al vacío que tu proyecto atiende.
+
+Toda idea tomada de otro debe **citarse** correctamente (normas APA). Citar no debilita tu trabajo: lo respalda y demuestra rigor.
 
 ## Actividades
 
-1. Presentación de los criterios y la rúbrica del examen interciclo.
-2. Autoevaluación del protocolo y del marco teórico con una lista de verificación.
-3. Resolución de dudas puntuales y ajuste de los componentes pendientes.
+1. Revisar la estructura del marco teórico propio: conceptos, autores, discusión y cierre.
+2. Verificar que cada afirmación ajena esté citada según normas APA.
+3. Ajustar el documento con vistas al examen interciclo.
 
 ---
-*Herramientas: Google Classroom, Google Docs*
+*Herramientas: Google Docs, normas APA*

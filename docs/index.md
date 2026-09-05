@@ -4,7 +4,7 @@
 
 ## Descripción
 
-Este curso introduce al estudiante de producción musical en el proceso de la investigación académica orientada a la construcción de su **trabajo de titulación**. A lo largo de 29 sesiones se recorren las etapas del proceso investigativo: la comprensión de qué es investigar (científica y artísticamente), los enfoques cuantitativo y cualitativo, la elección y delimitación del tema, la construcción del protocolo, los objetivos, el estado del arte, el marco teórico, el manejo de fuentes y fichas bibliográficas, hasta las técnicas de recolección de datos —estudio de caso, entrevista y análisis musical— y la gestión del tiempo para culminar el proyecto.
+Este curso introduce al estudiante de producción musical en el proceso de la investigación académica orientada a la construcción de su **trabajo de titulación**. A lo largo de 28 sesiones se recorren las etapas del proceso investigativo: la comprensión de qué es investigar (científica y artísticamente), los enfoques cuantitativo y cualitativo, la elección y delimitación del tema, la construcción del protocolo, los objetivos, el estado del arte, el marco teórico, el manejo de fuentes y fichas bibliográficas, hasta las técnicas de recolección de datos —estudio de caso, entrevista y análisis musical— y la gestión del tiempo para culminar el proyecto.
 
 El curso se apoya en tres pilares que guían todo trabajo académico serio: **investigación, escritura y citación**.
 

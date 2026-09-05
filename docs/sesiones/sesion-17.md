@@ -1,29 +1,27 @@
-# Sesión 17: Lectura académica y fichas bibliográficas
+# Sesión 17: Fichas bibliográficas (I) — registro y resumen
 
 ## Objetivos
 
-- Leer fuentes académicas de forma crítica.
-- Construir fichas bibliográficas que registren la lectura.
-- Incorporar nuevas fuentes al marco teórico.
+- Consolidar el registro de fuentes en fichas bibliográficas.
+- Redactar resúmenes precisos de las fuentes.
+- Revisar el formato APA de las referencias.
 
 ## Contenidos
 
-La **lectura académica** no es pasiva: se lee con un propósito y con preguntas. Frente a cada fuente conviene preguntarse: ¿qué afirma?, ¿con qué evidencia?, ¿cómo se relaciona con mi proyecto?
+La ficha bibliográfica se compone de tres capas, y en esta sesión se afinan las dos primeras:
 
-La **ficha bibliográfica** es el instrumento que fija esa lectura. Registra:
+1. **Registro**: la referencia completa en APA. Es la identificación de la fuente; si está mal, la fuente se vuelve inencontrable.
+2. **Resumen**: una síntesis fiel de las ideas centrales, sin valoración personal todavía.
 
-- La **referencia** completa (normas APA).
-- El **resumen** de las ideas centrales.
-- Las **citas textuales** relevantes (con número de página).
-- Un **comentario** sobre su utilidad para tu trabajo.
+Un buen resumen no copia párrafos: captura la tesis del autor, los argumentos principales y la conclusión, con tus palabras. La fidelidad importa: no atribuyas al autor lo que no dijo.
 
-La ficha convierte una lectura en un insumo reutilizable: cuando escribas el marco teórico, ya tendrás el material organizado.
+La tercera capa —las citas textuales y el comentario crítico— se trabaja en la sesión siguiente.
 
 ## Actividades
 
-1. Buscar dos artículos o libros nuevos relacionados con el tema de titulación.
-2. Construir la ficha bibliográfica de cada fuente (referencia, resumen, citas, comentario).
-3. Vincular las nuevas fuentes al material de producción musical del proyecto.
+1. Revisar las referencias de las fichas existentes y corregir el formato APA.
+2. Redactar o mejorar el resumen de cada fuente registrada.
+3. Verificar que cada resumen sea fiel al texto original.
 
 ---
 *Herramientas: Google Docs, normas APA*

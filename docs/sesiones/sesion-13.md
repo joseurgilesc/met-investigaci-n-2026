@@ -1,24 +1,24 @@
-# Sesión 13: Recopilación de la información (II) — organización y síntesis
+# Sesión 13: Instrucciones para el examen interciclo
 
 ## Objetivos
 
-- Organizar la información recopilada en una estructura coherente.
-- Representar las relaciones entre conceptos mediante un mapa conceptual.
-- Sintetizar las fuentes para preparar el marco teórico.
+- Conocer los criterios de evaluación del examen interciclo.
+- Revisar el avance del proyecto y detectar pendientes.
+- Consolidar los componentes trabajados hasta el marco teórico.
 
 ## Contenidos
 
-Una vez recopiladas las fuentes, el reto es **ordenarlas y sintetizarlas**. No se trata de resumir cada texto por separado, sino de **poner en diálogo** las fuentes: agruparlas por temas, detectar acuerdos y desacuerdos, y construir una red de conceptos.
+El **examen interciclo** evalúa el avance del proyecto hasta el **marco teórico**. Es un punto de control: no mide la versión final, sino la solidez del proceso. Conviene repasar la **cadena completa** construida hasta aquí:
 
-El **mapa conceptual** es una herramienta potente para este paso: representa visualmente los conceptos y sus relaciones jerárquicas. Te obliga a decidir qué es lo central y qué es lo secundario, y a ver los huecos de tu argumentación.
+tema → problema → objeto → objetivos → estado del arte → marco teórico.
 
-La síntesis es el puente entre la información y el **marco teórico**: transforma una pila de lecturas en un discurso propio que fundamenta tu proyecto.
+Cada eslabón depende del anterior. Un tema mal delimitado produce un objeto difuso; un objeto difuso produce objetivos débiles. El repaso consiste en verificar la **coherencia** de toda la cadena.
 
 ## Actividades
 
-1. Agrupar las fuentes recopiladas por temas o subtemas.
-2. Elaborar un mapa conceptual que relacione los conceptos clave del proyecto (planificación).
-3. Redactar una síntesis breve que anticipe la estructura del marco teórico.
+1. Presentación de los criterios y la rúbrica del examen interciclo.
+2. Autoevaluación del protocolo y del marco teórico con una lista de verificación.
+3. Resolución de dudas puntuales y ajuste de los componentes pendientes.
 
 ---
-*Herramientas: herramienta de mapas conceptuales, Google Docs*
+*Herramientas: Google Classroom, Google Docs*
