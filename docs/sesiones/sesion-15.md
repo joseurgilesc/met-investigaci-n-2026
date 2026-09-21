@@ -1,5 +1,9 @@
 # Sesión 15: Examen interciclo
 
+*Fecha: 16/11/2026*
+
+*Clase en Classroom: [Clase 15](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Demostrar el avance del proyecto hasta el marco teórico.

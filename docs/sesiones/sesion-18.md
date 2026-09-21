@@ -1,5 +1,9 @@
 # Sesión 18: Fichas bibliográficas (II) — citas y comentario crítico
 
+*Fecha: 24/11/2026*
+
+*Clase en Classroom: [Clase 18-19](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Seleccionar citas textuales relevantes con su paginación.

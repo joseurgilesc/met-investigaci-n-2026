@@ -1,5 +1,9 @@
 # Sesión 11: Estado actual del conocimiento
 
+*Fecha: 26/10/2026*
+
+*Clase en Classroom: [Clase 11](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Comprender qué es el estado actual del conocimiento (estado del arte).

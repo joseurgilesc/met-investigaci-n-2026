@@ -1,5 +1,9 @@
 # Sesión 27: Entrevistas — aplicación
 
+*Fecha: 4/1/2027*
+
+*Clase en Classroom: [Clase 28](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Aplicar la entrevista semiestructurada en un caso real.

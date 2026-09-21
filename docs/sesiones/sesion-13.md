@@ -1,5 +1,9 @@
 # Sesión 13: Instrucciones para el examen interciclo
 
+*Fecha: 9/11/2026*
+
+*Clase en Classroom: [Clase 12-13](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Conocer los criterios de evaluación del examen interciclo.

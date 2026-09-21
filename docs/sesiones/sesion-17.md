@@ -1,5 +1,9 @@
 # Sesión 17: Fichas bibliográficas (I) — registro y resumen
 
+*Fecha: 23/11/2026*
+
+*Clase en Classroom: [Clase 17](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Consolidar el registro de fuentes en fichas bibliográficas.

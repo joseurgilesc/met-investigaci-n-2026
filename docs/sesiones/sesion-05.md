@@ -1,5 +1,9 @@
 # Sesión 05: Problema de investigación y tipos de investigación
 
+*Fecha: 5/10/2026*
+
+*Clase en Classroom: [Clase 5](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Formular el problema de investigación como punto de partida del proyecto.

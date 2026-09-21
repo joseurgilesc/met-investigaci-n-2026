@@ -1,5 +1,9 @@
 # Sesión 16: Lectura académica y fichas bibliográficas
 
+*Fecha: 17/11/2026*
+
+*Clase en Classroom: [Clase 16](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Leer fuentes académicas de forma crítica.

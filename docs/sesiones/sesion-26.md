@@ -1,5 +1,9 @@
 # Sesión 26: Gestión del tiempo
 
+*Fecha: 22/12/2026*
+
+*Clase en Classroom: [Clase 26](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Reconocer la gestión del tiempo como competencia del trabajo académico.

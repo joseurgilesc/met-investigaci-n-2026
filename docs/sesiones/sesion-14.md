@@ -1,5 +1,9 @@
 # Sesión 14: Revisión del marco teórico (previo al interciclo)
 
+*Fecha: 10/11/2026*
+
+*Clase en Classroom: [Clase 14](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Comprender qué es y cómo se estructura el marco teórico.

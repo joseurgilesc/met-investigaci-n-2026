@@ -1,5 +1,9 @@
 # Sesión 04: Formatos de trabajos de titulación y elección del tema
 
+*Fecha: 29/9/2026*
+
+*Clase en Classroom: [Clase 4](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Conocer los formatos de trabajo de titulación disponibles en la carrera.

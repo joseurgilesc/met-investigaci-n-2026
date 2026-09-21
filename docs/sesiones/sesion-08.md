@@ -1,5 +1,9 @@
 # Sesión 08: Inicio de la construcción del protocolo
 
+*Fecha: 13/10/2026*
+
+*Clase en Classroom: [Clase 8](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Comprender qué es un protocolo de investigación y sus componentes.

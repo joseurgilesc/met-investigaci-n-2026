@@ -1,5 +1,9 @@
 # Sesión 03: Enfoques de la investigación
 
+*Fecha: 28/9/2026*
+
+*Clase en Classroom: [Clase 3](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Diferenciar los enfoques cuantitativo, cualitativo y mixto.

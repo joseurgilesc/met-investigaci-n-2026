@@ -1,5 +1,9 @@
 # Sesión 06: Delimitación del tema de estudio
 
+*Fecha: 6/10/2026*
+
+*Clase en Classroom: [Clase 6](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Aplicar criterios de delimitación a un tema de investigación.

@@ -1,5 +1,9 @@
 # Sesión 25: Análisis musical (II) — parámetros electromusicales
 
+*Fecha: 21/12/2026*
+
+*Clase en Classroom: [Clase 25](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Analizar los parámetros de producción (electromusicales) de una obra.

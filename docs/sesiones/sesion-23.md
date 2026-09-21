@@ -1,5 +1,9 @@
 # Sesión 23: Diseño de entrevistas
 
+*Fecha: 14/12/2026*
+
+*Clase en Classroom: [Clase 23](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Distinguir los tipos de entrevista y sus usos.

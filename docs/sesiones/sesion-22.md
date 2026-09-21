@@ -1,5 +1,9 @@
 # Sesión 22: Revisión de estudios de caso
 
+*Fecha: 8/12/2026*
+
+*Clase en Classroom: [Clase 22](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Analizar estudios de caso del ámbito musical.

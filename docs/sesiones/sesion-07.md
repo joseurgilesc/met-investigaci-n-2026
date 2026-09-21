@@ -1,5 +1,9 @@
 # Sesión 07: Objeto y campo de la investigación
 
+*Fecha: 12/10/2026*
+
+*Clase en Classroom: [Clase 7](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Diferenciar el objeto de estudio del campo de estudio.

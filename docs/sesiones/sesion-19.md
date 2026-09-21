@@ -1,5 +1,9 @@
 # Sesión 19: Cronograma del proyecto (I) — planificación
 
+*Fecha: 30/11/2026*
+
+*Clase en Classroom: [Clase 18-19](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Comprender la estructura del cronograma de un proyecto de titulación.

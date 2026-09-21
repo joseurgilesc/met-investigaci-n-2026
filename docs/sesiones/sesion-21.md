@@ -1,5 +1,9 @@
 # Sesión 21: Técnicas de investigación
 
+*Fecha: 7/12/2026*
+
+*Clase en Classroom: [Clase 20-21](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Conocer las principales técnicas de recolección de datos.

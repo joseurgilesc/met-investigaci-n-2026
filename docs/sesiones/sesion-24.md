@@ -1,5 +1,9 @@
 # Sesión 24: Análisis musical (I) — estructura y forma
 
+*Fecha: 15/12/2026*
+
+*Clase en Classroom: [Clase 24](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Comprender qué es el análisis musical y para qué sirve en la investigación.

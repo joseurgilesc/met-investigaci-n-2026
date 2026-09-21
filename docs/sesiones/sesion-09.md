@@ -1,5 +1,9 @@
 # Sesión 09: Objetivos de investigación
 
+*Fecha: 19/10/2026*
+
+*Clase en Classroom: [Clase 9](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Comprender la función de los objetivos en un proyecto.

@@ -1,5 +1,9 @@
 # Sesión 10: Construcción de objetivos generales y específicos
 
+*Fecha: 20/10/2026*
+
+*Clase en Classroom: [Clase 10](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Construir el objetivo general con su estructura correcta.

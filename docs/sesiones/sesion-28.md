@@ -1,5 +1,9 @@
 # Sesión 28: Examen final
 
+*Fecha: 5/1/2027*
+
+*Clase en Classroom: [Clase 29](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Demostrar el dominio de la técnica de la entrevista.

@@ -1,5 +1,9 @@
 # Sesión 02: Filosofía de la investigación y bibliografía anotada
 
+*Fecha: 22/9/2026*
+
+*Clase en Classroom: [Clase 2](https://classroom.google.com/c/ODcxODY3Mjk2OTk0)*
+
 ## Objetivos
 
 - Identificar los principales paradigmas de la investigación y su idea de "verdad".
