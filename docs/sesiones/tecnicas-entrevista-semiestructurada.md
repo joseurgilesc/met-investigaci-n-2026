@@ -1,13 +1,13 @@
 # Sesión práctica: Técnicas de investigación y entrevista semiestructurada
 
 *Asignatura: Metodología de la Investigación I · Artes Musicales*  
-*Duración: 2 horas · Modalidad: exposición breve y trabajo en parejas*
+*Modalidad: exposición breve y trabajo en parejas*
 
 ## Objetivo
 
 Comprender las principales técnicas de investigación, reconocer sus posibilidades en Artes Musicales y diseñar, aplicar y analizar inicialmente una entrevista semiestructurada.
 
-## 1. ¿Qué son las técnicas de investigación? (10 min)
+## 1. ¿Qué son las técnicas de investigación?
 
 Las **técnicas de investigación** son procedimientos sistemáticos para obtener y registrar información y, en algunos casos, analizarla con el propósito de responder una pregunta de investigación. En Artes Musicales permiten estudiar obras, procesos creativos, prácticas interpretativas, experiencias de escucha y contextos culturales.
 
@@ -22,7 +22,7 @@ Las **técnicas de investigación** son procedimientos sistemáticos para obtene
     **Técnica:** entrevista semiestructurada.  
     **Instrumento:** guía de preguntas abiertas.
 
-## 2. Principales técnicas y ejemplos en Artes Musicales (15 min)
+## 2. Principales técnicas y ejemplos en Artes Musicales
 
 ### 2.1. Entrevista
 
@@ -33,6 +33,10 @@ Permite profundizar en experiencias, decisiones, percepciones y significados.
 - **Aplicación:** entrevistar a cinco compositores acerca de su forma de trabajar.
 - **Ejemplo de pregunta:** «¿Cómo intervienen las herramientas digitales cuando decides desarrollar una idea musical?»
 
+**Otro ejemplo:** entrevistas a intérpretes de música tradicional sobre el aprendizaje de su repertorio.
+
+**Enlace:** [Guía de buenas prácticas de entrevistas — Oral History Association](https://oralhistory.org/best-practices/).
+
 ### 2.2. Encuesta
 
 Recoge respuestas estandarizadas para describir tendencias y comparar grupos.
@@ -41,6 +45,10 @@ Recoge respuestas estandarizadas para describir tendencias y comparar grupos.
 - **Instrumento:** cuestionario.
 - **Aplicación:** solicitar respuestas a 100 estudiantes; describir claramente cómo fueron seleccionados.
 - **Ejemplo de pregunta:** «¿Cuántas horas al día escuchas música?» Opciones: menos de 1; 1–2; más de 2 hasta 4; más de 4 horas.
+
+**Otro ejemplo:** cuestionario a instrumentistas sobre el uso de metrónomo y aplicaciones en su estudio individual.
+
+**Enlace:** [Ejemplos de tipos de preguntas — Qualtrics](https://www.qualtrics.com/support/survey-platform/survey-module/editing-questions/question-types-guide/question-types-overview/).
 
 ### 2.3. Observación
 
@@ -51,6 +59,10 @@ Registra acciones e interacciones en situaciones reales.
 - **Aplicación:** observar tres ensayos, anotando gestos, indicaciones verbales, interrupciones y modos de coordinación.
 - **Modalidad:** observación no participante.
 
+**Otro ejemplo:** observar una clase de instrumento y registrar las estrategias de corrección del docente.
+
+**Enlace:** [Guía de observación directa — BetterEvaluation (PDF)](https://www.betterevaluation.org/sites/default/files/G3658-5.pdf).
+
 ### 2.4. Análisis documental
 
 Examina documentos y registros para reconstruir información relevante.
@@ -59,6 +71,10 @@ Examina documentos y registros para reconstruir información relevante.
 - **Instrumento:** ficha de análisis documental.
 - **Aplicación:** revisar programas de concierto, partituras y archivos de distintos periodos.
 - **Datos:** fechas, autores, géneros y obras interpretadas.
+
+**Otro ejemplo:** comparar programas de conciertos históricos para identificar cambios en el repertorio local.
+
+**Enlace:** [Colecciones de música y partituras — Library of Congress](https://www.loc.gov/research-centers/performing-arts/collections/digital-collections/).
 
 ### 2.5. Análisis musical y sonoro
 
@@ -69,6 +85,10 @@ Examina de manera sistemática características de obras y grabaciones.
 - **Aplicación:** analizar diez obras mediante escucha y visualización de sus señales.
 - **Parámetros:** espectro, dinámica, textura y organización temporal.
 
+**Otro ejemplo:** contrastar dos interpretaciones grabadas de una obra según tempo, articulación, dinámica y timbre.
+
+**Enlaces:** [Ejemplos de espectrogramas — Audacity](https://manual.audacityteam.org/man/spectrogram_view.html) · [Sonic Visualiser](https://sonicvisualiser.org/download.html).
+
 ### 2.6. Experimentación
 
 Evalúa efectos de una variable manipulada en condiciones controladas.
@@ -77,6 +97,10 @@ Evalúa efectos de una variable manipulada en condiciones controladas.
 - **Instrumentos:** estímulos de escucha y escala de valoración.
 - **Aplicación:** presentar tres versiones de una misma voz con diferente reverberación, igualando el nivel de escucha y controlando otras variables.
 - **Registro:** valoración de cercanía en una escala de 1 a 5.
+
+**Otro ejemplo:** comparar la tensión percibida de una melodía con distintas articulaciones, manteniendo constantes las demás condiciones de escucha.
+
+**Enlace:** [Audacity: preparación e inspección espectral de estímulos](https://manual.audacityteam.org/man/spectrogram_view.html). Este recurso apoya la preparación del audio, pero no sustituye la prueba perceptiva.
 
 | Técnica | Información que aporta | Producto posible |
 | --- | --- | --- |
@@ -90,7 +114,7 @@ Evalúa efectos de una variable manipulada en condiciones controladas.
 !!! tip "Idea clave"
     Una investigación puede **combinar técnicas**. Por ejemplo, entrevistar a un compositor, observar su proceso y analizar la obra resultante aporta distintas perspectivas sobre un mismo fenómeno.
 
-## 3. ¿Cómo seleccionar una técnica? (5 min)
+## 3. ¿Cómo seleccionar una técnica?
 
 La técnica se selecciona en función de **la pregunta de investigación** y del tipo de evidencia necesaria:
 
@@ -101,7 +125,7 @@ La técnica se selecciona en función de **la pregunta de investigación** y del
 - ¿Qué hábitos se distribuyen en un grupo? → **Encuesta**.
 - ¿Qué muestran los registros históricos? → **Análisis documental**.
 
-## 4. Entrevista semiestructurada (15 min)
+## 4. Entrevista semiestructurada
 
 La **entrevista semiestructurada** es una conversación guiada por preguntas abiertas, con flexibilidad para cambiar el orden y formular repreguntas según las respuestas.
 
@@ -130,18 +154,18 @@ La **entrevista semiestructurada** es una conversación guiada por preguntas abi
 
 Una buena pregunta debe ser **abierta, clara, neutral y pertinente**. Durante la entrevista, escucha sin interrumpir innecesariamente y pide ejemplos concretos.
 
-## 5. Ejercicio práctico: diseñar y aplicar una entrevista (50 min)
+## 5. Ejercicio práctico: diseñar y aplicar una entrevista
 
 **Modalidad:** parejas. Cada estudiante desempeña ambos roles.
 
-1. **Diseño (15 min):** elegir un tema musical, definir un objetivo y redactar **cinco preguntas abiertas** con posibles repreguntas.
-2. **Entrevistas (30 min):** una persona entrevista durante aproximadamente **12 min** y luego intercambian roles; usar los minutos restantes para organizar y anotar lo obtenido. Antes de grabar, solicitar **consentimiento expreso**. Si alguien no desea ser grabado, tomar notas; se puede omitir cualquier pregunta.
-3. **Registro inmediato (5 min):** señalar ideas importantes, respuestas inesperadas y preguntas que funcionaron o deben reformularse.
+1. **Diseño:** elegir un tema musical, definir un objetivo y redactar **cinco preguntas abiertas** con posibles repreguntas.
+2. **Entrevistas:** una persona entrevista  y luego intercambian roles; después organizan las notas. Antes de grabar, solicitar **consentimiento expreso**. Si alguien no desea ser grabado, tomar notas; se puede omitir cualquier pregunta.
+3. **Registro inmediato:** señalar ideas importantes, respuestas inesperadas y preguntas que funcionaron o deben reformularse.
 
 !!! note "Alcance de la actividad"
     La entrevista entre compañeros es una **simulación didáctica**. No equivale por sí sola a una muestra válida para los proyectos de investigación individuales. Si se reutilizan datos fuera de la clase, es necesario revisar consentimiento, confidencialidad y pertinencia de los participantes.
 
-## 6. Introducción al análisis cualitativo (15 min)
+## 6. Introducción al análisis cualitativo
 
 Una vez realizada la entrevista, debemos organizar lo dicho y construir interpretaciones vinculadas con el objetivo de investigación.
 
@@ -157,7 +181,7 @@ Una vez realizada la entrevista, debemos organizar lo dicho y construir interpre
 
 La **codificación cualitativa** consiste en identificar y etiquetar ideas significativas. Los códigos pueden agruparse en categorías preliminares, que deberán revisarse con más información.
 
-## 7. Discusión y entrega (10 min)
+## 7. Discusión y entrega
 
 **Preguntas para la discusión:**
 
@@ -174,17 +198,6 @@ La **codificación cualitativa** consiste en identificar y etiquetar ideas signi
 5. Dos categorías iniciales.
 6. Reflexión metodológica de unas 100 palabras.
 
-### Distribución temporal
-
-| Momento | Tiempo |
-| --- | ---: |
-| Conceptos y ejemplos de técnicas | 25 min |
-| Selección de técnica | 5 min |
-| Entrevista semiestructurada | 15 min |
-| Ejercicio en parejas | 50 min |
-| Análisis inicial | 15 min |
-| Discusión y entrega | 10 min |
-| **Total** | **120 min** |
 
 ---
 
